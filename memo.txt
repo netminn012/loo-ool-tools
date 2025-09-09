@@ -1,0 +1,2 @@
+python mani.py K --date 20250909
+python mani.py H
